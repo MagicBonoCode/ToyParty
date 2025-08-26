@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Prefab
+  m_EditorClassIdentifier: 
+  m_GroupName: Prefab
+  m_GUID: 38646750b957ebf4ea93b2a3ade014d0
+  m_SerializeEntries:
+  - m_GUID: 11ce1186e2c974e44a88a0b03863c5d9
+    m_Address: RainbowBlock
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 18a56ddc23924a44cb65086cba145e5f
+    m_Address: SpinningBlock
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 30a3641c4e2b66b45bb8cb779f51e8cf
+    m_Address: InputController
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8f817a149672f50458c7a7ce72c11208
+    m_Address: RocketBlock
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9bc578d31b586ff46ad962470af485d6
+    m_Address: GemBlock
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c9733eabce44f3c4994cf37dbec35dc4
+    m_Address: Tile
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Default
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 70c5223d51dbb614eaa55df954e4f93e, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 67592c323adabe247985b78299efad52, type: 2}
+    - {fileID: 11400000, guid: c9abbfff9888cb54c9b267695e226f50, type: 2}

@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: UI
+  m_EditorClassIdentifier: 
+  m_GroupName: UI
+  m_GUID: 76ac740e72c4b494aa61859459a06405
+  m_SerializeEntries:
+  - m_GUID: 3dc313da1899c214b96874fd80bfded0
+    m_Address: UI_MissionSlot
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 85d282e16e869d9478a642b6b1b1d2b1
+    m_Address: UI_MatchScene
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b81292a8169a30a45b62a4bc9b2158fe
+    m_Address: UI_GameResultPopup
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Default
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 70c5223d51dbb614eaa55df954e4f93e, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 8711670b5eb137e4687627380fb94422, type: 2}
+    - {fileID: 11400000, guid: 87c4adc1f8e73394889a2e2e069701d4, type: 2}
